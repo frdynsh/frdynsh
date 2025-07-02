@@ -1,4 +1,4 @@
-<div><h1 align="center"> Hi 👋, I'm <a href="https://www.linkedin.com/in/ferdi-yansah/">Ferdi Yansah</a></h1>
+<div><h1 align="left"> Hi 👋, I'm <a href="https://www.linkedin.com/in/ferdi-yansah/">Ferdi Yansah</a></h1>
 
 I’m an Informatics student at **Universitas Singaperbangsa Karawang**.  <br>I love turning ideas into real digital products through code.<br><br>Lately, I’ve been focusing on **web development**, and also exploring **mobile app development** using **Flutter**. Whether it's a solo side project or a team collaboration, I’m always excited to learn, build, and grow along the way.
 
