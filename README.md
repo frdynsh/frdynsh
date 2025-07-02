@@ -1,6 +1,6 @@
 <div><h1 align="center"> Hi 👋, I'm <a href="https://www.linkedin.com/in/ferdi-yansah/">Ferdi Yansah</a></h1>
 
-## 💫 About Me:
+## About Me:
 I’m an Informatics student at **Universitas Singaperbangsa Karawang**.  <br>I love turning ideas into real digital products through code.<br><br>Lately, I’ve been focusing on **web development**, and also exploring **mobile app development** using **Flutter**. Whether it's a solo side project or a team collaboration, I’m always excited to learn, build, and grow along the way.
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/frdynsha_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ferdiyansah) 
