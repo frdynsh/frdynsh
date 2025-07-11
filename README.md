@@ -12,4 +12,4 @@ I’m an Informatics student at **Universitas Singaperbangsa Karawang**.  <br>I 
 ## 📊 Github Statistics:
 <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=frdynsh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frdynsh&layout=compact&langs_count=8&theme=algolia"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frdynsh&theme=algolia&layout=compact"/>
