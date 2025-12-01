@@ -13,6 +13,6 @@ I’m an Informatics student at **Universitas Singaperbangsa Karawang**.  <br>I 
 <p align="left">
 <a href="https://github.com/frdynsh">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=frdynsh&show_icons=true&theme=algolia&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frdynsh&theme=algolia&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=frdynsh&layout=compact&theme=algolia"/>
 </a>
 </p>
